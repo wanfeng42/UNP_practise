@@ -1,5 +1,6 @@
 # tcp通信小程序
 
-usage:
-    tcpserv <config path>
-    tcpcli <IP> <name> <passwd>
+## usage:
+### tcpserv configpath
+### tcpcli IP name passwd
+
